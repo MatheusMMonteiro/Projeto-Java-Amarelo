@@ -38,6 +38,15 @@ Contato e informações sobre o centro de valorização a vida para pessoas que 
 
 > Possibilidade voltar para o início após o uso de qualquer opção.
 
+# SKILLS
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60px"/>
+
+
+ </div>
+
 ## License
 
 [MIT License](./LICENSE)
